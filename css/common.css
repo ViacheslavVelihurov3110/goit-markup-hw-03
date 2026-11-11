@@ -1,0 +1,14 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #fff;
+  color: #434455;
+  font-size: 16px;
+  list-style-type: none;
+}
+.accent {
+  color: #4d5ae5;
+}
+ul,
+li {
+  list-style-type: none;
+}
